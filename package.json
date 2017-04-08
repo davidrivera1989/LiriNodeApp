@@ -1,0 +1,27 @@
+{
+  "name": "lirinodeapp",
+  "version": "1.0.0",
+  "description": "liri node app",
+  "main": "liri.js",
+  "dependencies": {
+    "JSON": "^1.0.0",
+    "package.json": "^2.0.1",
+    "request": "^2.81.0",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidrivera1989/LiriNodeApp.git"
+  },
+  "author": "david rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidrivera1989/LiriNodeApp/issues"
+  },
+  "homepage": "https://github.com/davidrivera1989/LiriNodeApp#readme"
+}
